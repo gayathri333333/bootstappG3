@@ -1,0 +1,52 @@
+.body1{
+    background-color:grey;
+    color:black;
+  
+    
+   text-align:center;
+   margin:50px 50px 50px 50px;
+ line-height:40px;
+ padding:30px;
+ 
+ 
+
+}
+.container{
+    background-color:black;
+    height:500px;
+    
+    border-radius:50px;
+   
+
+}
+#head{
+    color:white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:60px;
+    padding:40px;
+   
+
+}
+#box{
+    margin:50px 10px 10px 10px;
+   border:2px solid white;
+   background-color:gray;
+   border-radius:30px;
+   margin-bottom:80px;
+   
+}
+#name{
+    border-radius:30px;
+
+    color:black;
+    margin-right:80px;
+    
+}
+#btnClick{
+    border-radius:30px;
+  
+   
+}
+#clear{
+    border-radius:30px;
+}
